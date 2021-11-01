@@ -14,3 +14,6 @@ https://datayanolja.kr/
 프로젝트 서비스화 진행중
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/56291884/136164894-5586a295-7811-41c2-8c51-73569ad5124b.gif)
+
+# 2021 데이터야놀자 영상
+https://youtu.be/qUn_hgLxudU
